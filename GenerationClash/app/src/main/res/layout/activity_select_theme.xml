@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_blue_light"
+    android:padding="32dp"
+    tools:context=".SelectTheme">
+
+    <LinearLayout
+        android:layout_width="334dp"
+        android:layout_height="644dp"
+        android:layout_gravity="center|center_horizontal"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="82dp"
+            android:text="Selecione o tema:\n\n"
+            android:textColor="#000000"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/b1"
+            android:layout_width="325dp"
+            android:layout_height="93dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="20dp"
+            android:background="@drawable/button_drawable"
+            android:onClick="PalavrasOnClick"
+            android:padding="16dp"
+            android:text="Palavras"
+            android:textColor="#000000"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/b2"
+            android:layout_width="325dp"
+            android:layout_height="93dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="20dp"
+            android:background="@drawable/button_drawable"
+            android:onClick="ImagesOnClick"
+            android:padding="16dp"
+            android:text="Imagens"
+            android:textColor="#000000"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/b3"
+            android:layout_width="325dp"
+            android:layout_height="93dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="20dp"
+            android:background="@drawable/button_drawable"
+            android:onClick="DesportoOnClick"
+            android:text="Desporto"
+            android:textColor="#000000"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/b4"
+            android:layout_width="325dp"
+            android:layout_height="93dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="20dp"
+            android:background="@drawable/button_drawable"
+            android:onClick="ProverbiosOnClick"
+            android:text="Provérbios"
+            android:textColor="#000000"
+            android:textSize="24sp" />
+
+    </LinearLayout>
+
+</FrameLayout>

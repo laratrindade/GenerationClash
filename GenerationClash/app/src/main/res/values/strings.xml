@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="jogar">Jogar</string>
+    <string name="_1_selecione_a_op_o_que_considera_correta_de_entre_as_4_dadas_n2_cada_resposta_correta_vale_1_ponto_n3_alcance_o_m_ximo_de_pontos">1. Selecione a opção que considera correta de entre as 4 dadas. 2. Cada resposta correta vale 1 ponto. 3. Alcance o máximo de pontos.</string>
+    <string name="back">Back</string>
+    <string name="palavras">Palavras</string>
+    <string name="textview">TextView</string>
+    <string name="menu">Menu</string>
+    <string name="nome_do_av_av">Nome do avô/avó:</string>
+    <string name="nome_do_neto_neta">Nome do neto/neta:</string>
+    <string name="guardar">Guardar</string>
+</resources>
