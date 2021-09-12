@@ -11,5 +11,5 @@ The project consisted in developing an application that would stimulate the inte
 * Lara Trindade, 2015235594
 
 
-##NOTE
+## Run app
 The apk (GenerationClash.apk) provided works only for Android operating system. To use this application you need to install the mentioned apk on an Android device.
