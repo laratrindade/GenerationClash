@@ -5,10 +5,10 @@ The project consisted in developing an application that would stimulate the inte
 
 ## Authors
 
-*Guilherme Nogueira, 2016233687
-*João Mesquita, 2015227177
-*Jorge Fernandes, 2016236178
-*Lara Trindade, 2015235594
+* Guilherme Nogueira, 2016233687
+* João Mesquita, 2015227177
+* Jorge Fernandes, 2016236178
+* Lara Trindade, 2015235594
 
 
 ##NOTE
